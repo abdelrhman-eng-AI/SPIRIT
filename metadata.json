@@ -1,0 +1,6 @@
+{
+  "name": "مسبار - مستكشف الآلات الفضائية المنسية",
+  "description": "رحلة تفاعلية لاستكشاف المركبات والآلات المنسية في الفضاء عبر الحقب الزمنية المختلفة مع رفيق كرتوني مخصص واختبارات وأوسمة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
